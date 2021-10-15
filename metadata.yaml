@@ -1,0 +1,25 @@
+_repo: Trouble-Near-the-Sun_66436
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ramm, Alan J.
+    gutenberg_agent_id: '53235'
+    url: http://www.gutenberg.org/2009/agents/53235
+description: ''
+gutenberg_issued: '2021-10-01'
+identifiers:
+  gutenberg: '66436'
+language: en
+pgterms:marc905: 20210307064622ramm
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1954.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Trouble Near the Sun
+url: http://www.gutenberg.org/ebooks/66436
